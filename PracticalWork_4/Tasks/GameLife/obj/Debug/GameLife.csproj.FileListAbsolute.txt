@@ -1,0 +1,7 @@
+C:\VisualStudioProjects\PracticalWork_4\Tasks\GameLife\bin\Debug\GameLife.exe.config
+C:\VisualStudioProjects\PracticalWork_4\Tasks\GameLife\bin\Debug\GameLife.exe
+C:\VisualStudioProjects\PracticalWork_4\Tasks\GameLife\bin\Debug\GameLife.pdb
+C:\VisualStudioProjects\PracticalWork_4\Tasks\GameLife\obj\Debug\GameLife.csproj.AssemblyReference.cache
+C:\VisualStudioProjects\PracticalWork_4\Tasks\GameLife\obj\Debug\GameLife.csproj.CoreCompileInputs.cache
+C:\VisualStudioProjects\PracticalWork_4\Tasks\GameLife\obj\Debug\GameLife.exe
+C:\VisualStudioProjects\PracticalWork_4\Tasks\GameLife\obj\Debug\GameLife.pdb
